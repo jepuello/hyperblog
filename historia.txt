@@ -8,5 +8,5 @@ Estoy confuso y enrredado pero sigo en pie.
 En este punto estoy volviendo en las clases,crei que ya tenia claros los conceptos y resulta que no.
 
 Acabo de notar que sin tener la intecion de momerizar los comandos,ya me los aprendi,gracias a la toma de apuntes,las clases repetidas y la practiaca.
-
+Aqui untrodusco dentro de vim esta frase
 esto es en el blog de notas
