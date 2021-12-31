@@ -4,9 +4,9 @@ Gracias a Dios y los que me quieren por perrmitir que pueda dedicar tiempo a est
 
 A lo largo de curso estoy tratando de tomar apuntes y estudiarlo,con la intencion de aprender sin importar el tiempo que me tome
 
-Estoy confuso y enrredado pero sigo en pie.
+Estoy en confusion y enrredado pero sigo en pie.
 En este punto estoy volviendo en las clases,crei que ya tenia claros los conceptos y resulta que no.
-
+Estoy en la clase de pull requests y estoy arreglando un error en rama
 Acabo de notar que sin tener la intecion de momerizar los comandos,ya me los aprendi,gracias a la toma de apuntes,las clases repetidas y la practiaca.
 Aqui untrodusco dentro de vim esta frase
 esto es en el blog de notas
