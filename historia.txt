@@ -10,6 +10,9 @@ Estoy en la clase de pull requests y estoy arreglando un error en rama
 Acabo de notar que sin tener la intecion de momerizar los comandos,ya me los aprendi,gracias a la toma de apuntes,las clases repetidas y la practiaca.
 Aqui untrodusco dentro de vim esta frase
 esto es en el blog de notas
+
+experimento 1
+
 Master 1
 
 
