@@ -4,5 +4,6 @@ hyperblog
 "no pares de aprender"
 *Creado por Jaime Puello
 *Incluye ejemplos en windows,linux y mac
+*Disponible para todas las edades
 
 Sin intencion de ofender estoy realizando,cualquier tipo de practcas que puede realizar ok.
